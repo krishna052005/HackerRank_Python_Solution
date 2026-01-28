@@ -16,22 +16,22 @@ All solutions are written in Python, focusing on clean, readable, efficient code
 
 ---
 ## 🗂️ Domains Covered
-
-Some of the topics include:
-Basic Python
-Data Types
-Loops and Conditionals
-Functions
-Lists, Sets, Dictionaries
-String Manipulation
-Problem-Solving Challenges
+'''--Some of the topics include:
+--Basic Python,
+--Data Types,
+--Loops and Conditionals,
+--Functions,
+--Lists, Sets, Dictionaries,
+--String Manipulation,
+--Problem-Solving Challenges
 
 ---
-## Usage
+## Usage:
 
-Browse folders to find specific Python challenge solutions
+Browse folders to find specific Python challenge solutionn
 Each file corresponds to a HackerRank problem
 Run .py files locally using Python 3.x
+
 ---
 ## 📚 Learning Outcomes:
 
